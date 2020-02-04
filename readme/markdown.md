@@ -60,7 +60,7 @@ Which is rendered as:
 
 ## Joplin Extras
 
-Besides the standard Mardkown syntax, Joplin supports several additional features.
+Besides the standard Markdown syntax, Joplin supports several additional features.
 
 ### Links to other notes
 
